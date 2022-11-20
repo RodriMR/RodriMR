@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Molina</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Shooza's ecosystem**() as a Frontend developer and consultant
+- 🔭 I’m currently working on **Shooza's ecosystem** as a Frontend developer and consultant
 
 - ✨Check my work https://shooza.co/ , https://partyfi.shooza.co/ ✨
 

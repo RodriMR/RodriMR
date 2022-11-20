@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Molina</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on **My protfolio**
+- 🔭 I’m currently working on **Shooza's ecosystem** as a Frontend developer and consultant
+- https://shooza.co/
 
-- 🌱 I’m currently learning **Scss,GraphQL**
+- 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **rodrimr2008@gmail.com**
 

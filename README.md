@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Shooza's ecosystem** as a Frontend developer and consultant
 - https://shooza.co/
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Typescript**,**Tailwind**,**Selenium**
 
 - 📫 How to reach me **rodrimr2008@gmail.com**
 

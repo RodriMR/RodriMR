@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Shooza's ecosystem** as a Frontend developer and consultant
 
-- ✨Check my work https://shooza.co/ , https://partyfi.shooza.co/ ✨
+- ✨Check my current work https://shooza.co/ , https://partyfi.shooza.co/ ✨
 
 - 🌱 I’m currently learning **Typescript**,**Tailwind**,**Selenium**
 

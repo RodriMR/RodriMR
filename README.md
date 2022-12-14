@@ -19,5 +19,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrimr&show_icons=true&theme=dracula&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="rodrimr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrimr&theme=dark" alt="rodrimr" /></p>
+
 

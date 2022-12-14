@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -78,8 +78,13 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodriMR&hide_border=true&layout=compact" align="center" /></div>
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">
+   <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodriMR&layout=compact&theme=radical" />
+ 
+  <br/> <br/> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RodriMR&show_icons=true&theme=radical" />
+  <div/>
+
+
+<br />

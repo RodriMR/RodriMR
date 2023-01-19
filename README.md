@@ -1,5 +1,6 @@
 <div align="center">
 <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" align="center" style="width: 100%" />
+ <img src="[https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif](https://external-preview.redd.it/JMdgTRcL8K4JhqnvDI2mAKp1Krsi00_XN13hKt-wmnA.jpg?auto=webp&v=enabled&s=97c69223ce4094a0e8e6bfc0b9fa1d2607c75984)" align="center" style="width: 100%" />
 </div>  
   
 
@@ -9,10 +10,7 @@
 - 🔭 I’m currently working on [Shooza](https://shooza.co/)  
   
 
-- 🌱 I’m currently learning Three Js, Blender and Japanese  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- 🌱 I’m currently learning Three Js, Blender, Spline and Japanese  
   
 
 - ⚡ Fun fact: I'm a pastry chef👨‍🍳  

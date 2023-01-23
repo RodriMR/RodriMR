@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on [Shooza](https://shooza.co/)  
   
 
-- 🌱 I’m currently learning Three Js, Blender, Spline and Japanese  
+- 🌱 I’m currently learning Flutter, Three Js, Blender, Spline and Japanese  
   
 
 - ⚡ Fun fact: I'm a pastry chef👨‍🍳  
